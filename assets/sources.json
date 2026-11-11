@@ -1,0 +1,59 @@
+{
+  "channel": "https://t.me/dianna_lash",
+  "contact": "https://t.me/ermakovadiana2",
+  "images": [
+    {
+      "file": "diana-916-1.jpg",
+      "source": "https://t.me/dianna_lash/916"
+    },
+    {
+      "file": "diana-895-1.jpg",
+      "source": "https://t.me/dianna_lash/895"
+    }
+  ],
+  "avatar": {
+    "file": "avatar.png",
+    "type": "generated",
+    "reference": "https://t.me/dianna_lash",
+    "note": "Approved DL monogram generated for Diana Lash; installed as the site avatar and separated into SVG layers for animation."
+  },
+  "animated_logo": {
+    "file": "logo-animated.svg",
+    "layers": [
+      "D",
+      "L",
+      "gold arc",
+      "DIANA LASH",
+      "gold rule"
+    ],
+    "implementation": "Self-contained SVG paths for every layer; no masks, raster images or external fonts."
+  },
+  "price_list": {
+    "file": "pricelist.jpg",
+    "source": "https://t.me/dianna_lash/812",
+    "published": "2026-07-29",
+    "currency": "RUB"
+  },
+  "catalog_photos": [
+    {
+      "file": "work-class-0.jpg",
+      "source": "https://t.me/dianna_lash/763",
+      "service": "Классика (5D)"
+    },
+    {
+      "file": "work-wet-0.jpg",
+      "source": "https://t.me/dianna_lash/778",
+      "service": "Мокрый эффект"
+    },
+    {
+      "file": "work-mega-0.jpg",
+      "source": "https://t.me/dianna_lash/784",
+      "service": "Мегаобъём"
+    },
+    {
+      "file": "diana-895-1.jpg",
+      "source": "https://t.me/dianna_lash/895",
+      "service": "Оформление бровей"
+    }
+  ]
+}
